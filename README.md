@@ -45,10 +45,11 @@ Always curious, I explore new tools, open source systems, and minimal approaches
   <p align="center">
     <img src="https://skillicons.dev/icons?i=react,typescript,javascript,bun,nodejs,tailwind,html,css,git,linux&theme=light" />
   </p>
-
+<!--
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Athal-C&count_private=true&include_all_commits=true&show_icons=true&theme=dracula" alt="Cristian's GitHub Stats">
   </p>
+-->
 </div>
 
 ---
